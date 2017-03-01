@@ -18,7 +18,7 @@ You can see the full list of projects in the [issues list for this GitHub reposi
 ## How do I add a project to the list?
 
 1. Create a GitHub account if you don't already have one: https://github.com/join
-2. Open a new GitHub Issue in this repository: https://github.com/ProgressiveCoders/weekly-workshop/issues/new
+2. Open a new GitHub Issue in this repository: https://github.com/ProgressiveCoders/community-hack-night/issues/new
 3. Set the title of your issue to the name of your project, and fill out the description template in the body. We will add the appropriate labels to it.
 
 Source: [Chi Hack Night](http://www.chihacknight.org)
